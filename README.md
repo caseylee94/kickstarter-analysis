@@ -1,11 +1,7 @@
-# An Analysis of Kickstarter Campaigns
-## Extensive analysis and organization of the data set was performed to determine trends in the successful versus failed campaigns. Metrics of the analysis focused on the type of campaign, the location, the launch date, and the goal money versus money pledged for each campaign.
+# Crowdfunding Analysis for Louise
 
-*Analysis of the parent categories found that the most successful campaigns were theatre. This means that theatre had the largest number of campaigns that were successful but theatre was also the most common type of campaign. As can be seen in the chart below, there was also a large number of failed theatre campaigns.
-![parentoutcomespivotchart](path/to/parentoutcomespivotchart.png)
+## Louise is an up and coming playwright who wants to start a Crowdfunding campaign to fund her own play, Fever. She has never done a fundraiser through Crowdfunding and is hesistant of where to start. This is where the data analysts' job comes in; to analyze data of past Crowdfunding campaigns to glean from the data which factors of a campaign are often successful and give Louise recommendations of what to consider in her future campaign.
 
-*Analysis of the subcategory outcomes determined that plays are the most successful campaigns. Plays are also the largest of the subcategories and have a significant number of failed outcomes. Rock is the second most successful subcategory and all of the rock campaigns were successful.
-![subcategoryoutcomespivotchart](path/to/subcategoryoutcomespivotchart.png)
+### The purpose of this analysis was to look closely into the relationship of the outcomes (failed, successful, or cancelled) based on the launch dates of the campaigns and then again based on the goals of the campaigns. This deep dive and analysis of the data will provide Louise with relevant information to help her move forward more productively in her own Crowdfunding campaigns based off which past parameters were more and less successful. This project used Excel functions and Excel graphing techniques to organize, comb through, and analyze the data statistically and create visualization of the data in the form of graphs.
 
-*Analysis of the launch date outcomes determined that the most successful month for campaigns was May. January, July, and October had the most failed campaigns. July is also the month with the most cancelled campaigns. 
-![launchdateoutcomespivotchart](path/to/launchdateoutcomespivotchart.png)
+### The data was analyzed first by extracting only the parameters being analyzed, in the case the outcome based on launch dates and outcome based on goals. This was performed using Excel functions such as filtering and data extraction formulas. 
