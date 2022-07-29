@@ -12,5 +12,6 @@
 
 #### First to analyze this data for outcomes based on launch dates, the year of each campaign was extracted from the Date Created Conversion column using the YEAR() Excel function to create a new column of data. A pivot table was then created from the worksheet and designed to show the canceled, failed, and successful campaigns as well as the grand total in columns. Parent category and years were set as the filters. The pivot table was filtered to show each month and how many campaigns were in each category for that month. The data was filtered to only show theater campaigns as these were the most successful overall and therefore the focus for Louise. A line chart was created from this chart to show a clear visualization and is shown below:
 
-#### ![Theatre_Outcomes_vs_Launch.png](/images/Theatre_Outcomes_vs_Launch.png)
+#### 
+![Theatre_Outcomes_vs_Launch.png](/images/Theatre_Outcomes_vs_Launch.png)
 
