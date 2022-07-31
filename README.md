@@ -19,7 +19,7 @@
 
 ### Outcomes Based on Goals
 
-#### The next analysis of this data was the outcomes (successful, failed, canceled) versus the goal (the amount of money hoped to be raised). To extract these data points from the larger data set, the COUNTIFS() Excel function was utilized and a chart was created in a new data sheet. Again this was to specifically analyze the ‘plays’ subcategory data, so a COUNTIFS() function was created for that filter as well. A line graph was created to visualize these findings:
+#### The next analysis of this data was the outcomes (successful, failed, canceled) versus the goal (the amount of money hoped to be raised). To extract these data points from the larger data set, the COUNTIFS() Excel function was utilized and a chart was created in a new data sheet. Again, this was to specifically analyze the ‘plays’ subcategory data, so a COUNTIFS() function was created for that filter as well. A line graph was created to visualize these findings:
 
 ####
 ![Outcomes_vs_Goals.png](/Outcomes_vs_Goals.png)
